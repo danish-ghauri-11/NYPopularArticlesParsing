@@ -40,6 +40,8 @@ struct ContentView: View {
                 Text("Retry")
                     .font(Font.system(size: 16.0, weight: .bold))
                 }
+                .disabled(self.articleListViewModelObserver.isApiCall)
+                .blur(radius: self.articleListViewModelObserver.isApiCall ? 5 : 0)
             }
         }
         .alert(isPresented: self.$articleListViewModelObserver.isError) {

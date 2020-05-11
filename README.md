@@ -2,7 +2,9 @@
 Swift 5.0+ and SwiftUI based Sample to Parse API of Popular Articles of Newyork Times
 
 # Requirements:
-Xcode-11.4+,iOS-13.0+,CocoaPods
+1. Xcode-11.4+
+2. iOS-13.0+
+3. CocoaPods
 
 # Installation Guide:
 1. Download or clone source code.

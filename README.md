@@ -1,5 +1,5 @@
 # NYPopularArticlesParsing
-Swift 5.0+ and SwiftUI based Sample to Parse API of Popular Articles of Newyork Times
+Swift 5.0+ and SwiftUI based Sample to Parse API of Popular Articles of Newyork Times. 
 
 # Requirements:
 1. Xcode-11.4+
@@ -12,7 +12,7 @@ Swift 5.0+ and SwiftUI based Sample to Parse API of Popular Articles of Newyork 
 3. Write "pod install" and press enter.
 
 # Details
-This project is based on MVVM architecture using Swift 5.0+ and SwiftUI based user Interfaces. Following are some of the highlighted points and foldering of this project.
+This project is based on MVVM architecture using Swift 5.0+ and SwiftUI based user Interfaces. Following are some of the highlighted points and foldering of this project. Also includes few unit test cases(XCTestCase) for testing proper mapping of data from json to model.
 
 1. Models folder within the app contains model classes for saving parsed data as objects.
 2. ScreenViews folder contains UI views of the screens created in this project.

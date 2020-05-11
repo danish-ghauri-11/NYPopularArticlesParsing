@@ -1,0 +1,1213 @@
+
+[{
+    "uri": "nyt://article/acd4e395-0b1a-5839-afd5-ad6d502b09a4",
+    "url": "https://www.nytimes.com/2020/05/02/us/asian-giant-hornet-washington.html",
+    "id": 100000007104409,
+    "asset_id": 100000007104409,
+    "source": "New York Times",
+    "published_date": "2020-05-02",
+    "updated": "2020-05-08 11:33:56",
+    "section": "U.S.",
+    "subsection": "",
+    "nytdsection": "u.s.",
+    "adx_keywords": "Hornets (Insects);Bees;Invasive Species;British Columbia (Canada);Washington (State)",
+    "column": null,
+    "byline": "By Mike Baker",
+    "type": "Article",
+    "title": "‘Murder Hornets’ in the U.S.: The Rush to Stop the Asian Giant Hornet",
+    "abstract": "Sightings of the Asian giant hornet have prompted fears that the vicious insect could establish itself in the United States and devastate bee populations.",
+    "des_facet": [
+      "Hornets (Insects)",
+      "Bees",
+      "Invasive Species"
+    ],
+    "org_facet": [],
+    "per_facet": [],
+    "geo_facet": [
+      "British Columbia (Canada)",
+      "Washington (State)"
+    ],
+    "media": [
+      {
+        "type": "image",
+        "subtype": "photo",
+        "caption": "A dead Asian giant hornet rests on entomologist Chris Looney’s jacket in Blaine, Wash. The queens can grow to two inches long, and the hornets can wipe out a honeybee hive in a matter of hours.",
+        "copyright": "Ruth Fremson/The New York Times",
+        "approved_for_syndication": 1,
+        "media-metadata": [
+          {
+            "url": "https://static01.nyt.com/images/2020/05/03/us/03ASIAN-HORNET-promo-hp/03ASIAN-HORNET-promo-hp-thumbStandard.jpg",
+            "format": "Standard Thumbnail",
+            "height": 75,
+            "width": 75
+          },
+          {
+            "url": "https://static01.nyt.com/images/2020/05/03/us/03ASIAN-HORNET-promo-hp/03ASIAN-HORNET-promo-hp-mediumThreeByTwo210.jpg",
+            "format": "mediumThreeByTwo210",
+            "height": 140,
+            "width": 210
+          },
+          {
+            "url": "https://static01.nyt.com/images/2020/05/03/us/03ASIAN-HORNET-promo-hp/03ASIAN-HORNET-promo-hp-mediumThreeByTwo440.jpg",
+            "format": "mediumThreeByTwo440",
+            "height": 293,
+            "width": 440
+          }
+        ]
+      }
+    ],
+    "eta_id": 0
+  },
+  {
+    "uri": "nyt://article/6da3ed1e-d763-5bb0-b793-f0fd3da852dc",
+    "url": "https://www.nytimes.com/2020/05/02/opinion/sunday/coronavirus-prediction-laurie-garrett.html",
+    "id": 100000007117610,
+    "asset_id": 100000007117610,
+    "source": "New York Times",
+    "published_date": "2020-05-02",
+    "updated": "2020-05-05 02:12:50",
+    "section": "Opinion",
+    "subsection": "Sunday Review",
+    "nytdsection": "opinion",
+    "adx_keywords": "Coronavirus (2019-nCoV);Epidemics;Tests (Medical);Vaccination and Immunization;United States Politics and Government;Garrett, Laurie;Trump, Donald J;Centers for Disease Control and Prevention",
+    "column": null,
+    "byline": "By Frank Bruni",
+    "type": "Article",
+    "title": "She Predicted the Coronavirus. What Does She Foresee Next?",
+    "abstract": "Laurie Garrett, the prophet of this pandemic, expects years of death and “collective rage.”",
+    "des_facet": [
+      "Coronavirus (2019-nCoV)",
+      "Epidemics",
+      "Tests (Medical)",
+      "Vaccination and Immunization",
+      "United States Politics and Government"
+    ],
+    "org_facet": [
+      "Centers for Disease Control and Prevention"
+    ],
+    "per_facet": [
+      "Garrett, Laurie",
+      "Trump, Donald J"
+    ],
+    "geo_facet": [],
+    "media": [
+      {
+        "type": "image",
+        "subtype": "photo",
+        "caption": "Laurie Garrett cheering essential workers from the roof of her apartment building, joining a citywide ritual every evening in New York.",
+        "copyright": "Joshua Bright for The New York Times",
+        "approved_for_syndication": 1,
+        "media-metadata": [
+          {
+            "url": "https://static01.nyt.com/images/2020/05/03/opinion/03bruniNew/merlin_172017432_d6faeada-226b-49ac-9263-a24ca066c079-thumbStandard.jpg",
+            "format": "Standard Thumbnail",
+            "height": 75,
+            "width": 75
+          },
+          {
+            "url": "https://static01.nyt.com/images/2020/05/03/opinion/03bruniNew/merlin_172017432_d6faeada-226b-49ac-9263-a24ca066c079-mediumThreeByTwo210.jpg",
+            "format": "mediumThreeByTwo210",
+            "height": 140,
+            "width": 210
+          },
+          {
+            "url": "https://static01.nyt.com/images/2020/05/03/opinion/03bruniNew/merlin_172017432_d6faeada-226b-49ac-9263-a24ca066c079-mediumThreeByTwo440.jpg",
+            "format": "mediumThreeByTwo440",
+            "height": 293,
+            "width": 440
+          }
+        ]
+      }
+    ],
+    "eta_id": 0
+  },
+  {
+    "uri": "nyt://article/43366b7d-be38-5df5-ac71-21eecf50e4a0",
+    "url": "https://www.nytimes.com/2020/05/04/us/coronavirus-live-updates.html",
+    "id": 100000007120241,
+    "asset_id": 100000007120241,
+    "source": "New York Times",
+    "published_date": "2020-05-04",
+    "updated": "2020-05-07 15:33:59",
+    "section": "U.S.",
+    "subsection": "",
+    "nytdsection": "u.s.",
+    "adx_keywords": "Coronavirus (2019-nCoV)",
+    "column": null,
+    "byline": "",
+    "type": "Article",
+    "title": "Models Project Sharp Rise in Deaths as States Reopen",
+    "abstract": "An internal Trump administration report expects about 200,000 daily cases by June. The White House bars coronavirus task force officials from testifying to Congress without approval.",
+    "des_facet": [
+      "Coronavirus (2019-nCoV)"
+    ],
+    "org_facet": [],
+    "per_facet": [],
+    "geo_facet": [],
+    "media": [],
+    "eta_id": 0
+  },
+  {
+    "uri": "nyt://article/616344ab-073b-509b-a9f0-8dbe6e63ebea",
+    "url": "https://www.nytimes.com/2020/05/05/nyregion/children-Kawasaki-syndrome-coronavirus.html",
+    "id": 100000007122275,
+    "asset_id": 100000007122275,
+    "source": "New York Times",
+    "published_date": "2020-05-05",
+    "updated": "2020-05-10 12:34:22",
+    "section": "New York",
+    "subsection": "",
+    "nytdsection": "new york",
+    "adx_keywords": "Coronavirus (2019-nCoV);Pediatric Inflammatory Multisystem Syndrome (PIMS);Children and Childhood;Kawasaki Disease;Hospitals;Epidemics;Tests (Medical);Deaths (Fatalities);Health and Mental Hygiene Department (NYC)",
+    "column": null,
+    "byline": "By Joseph Goldstein",
+    "type": "Article",
+    "title": "15 Children Are Hospitalized With Mysterious Illness Possibly Tied to Covid-19",
+    "abstract": "The health authorities in New York City issued an alert saying that the children had a syndrome that doctors do not yet fully understand.",
+    "des_facet": [
+      "Coronavirus (2019-nCoV)",
+      "Pediatric Inflammatory Multisystem Syndrome (PIMS)",
+      "Children and Childhood",
+      "Kawasaki Disease",
+      "Hospitals",
+      "Epidemics",
+      "Tests (Medical)",
+      "Deaths (Fatalities)"
+    ],
+    "org_facet": [
+      "Health and Mental Hygiene Department (NYC)"
+    ],
+    "per_facet": [],
+    "geo_facet": [],
+    "media": [
+      {
+        "type": "image",
+        "subtype": "photo",
+        "caption": "The boardwalk in the Rockaways in Queens. Children are less likely to become seriously ill with Covid-19 than adults. But some do.",
+        "copyright": "Kirsten Luce for The New York Times",
+        "approved_for_syndication": 1,
+        "media-metadata": [
+          {
+            "url": "https://static01.nyt.com/images/2020/05/04/nyregion/04nyvirus-children2/04nyvirus-children2-thumbStandard.jpg",
+            "format": "Standard Thumbnail",
+            "height": 75,
+            "width": 75
+          },
+          {
+            "url": "https://static01.nyt.com/images/2020/05/04/nyregion/04nyvirus-children2/04nyvirus-children2-mediumThreeByTwo210.jpg",
+            "format": "mediumThreeByTwo210",
+            "height": 140,
+            "width": 210
+          },
+          {
+            "url": "https://static01.nyt.com/images/2020/05/04/nyregion/04nyvirus-children2/04nyvirus-children2-mediumThreeByTwo440.jpg",
+            "format": "mediumThreeByTwo440",
+            "height": 293,
+            "width": 440
+          }
+        ]
+      }
+    ],
+    "eta_id": 0
+  },
+  {
+    "uri": "nyt://article/b34d3448-c5bb-5433-9e70-86c057c0542e",
+    "url": "https://www.nytimes.com/2020/05/03/opinion/dave-eggers-coronavirus-questions.html",
+    "id": 100000007118338,
+    "asset_id": 100000007118338,
+    "source": "New York Times",
+    "published_date": "2020-05-03",
+    "updated": "2020-05-09 19:41:40",
+    "section": "Opinion",
+    "subsection": "",
+    "nytdsection": "opinion",
+    "adx_keywords": "Coronavirus (2019-nCoV);Deaths (Fatalities);United States",
+    "column": null,
+    "byline": "By Dave Eggers",
+    "type": "Article",
+    "title": "Flattening the Truth on Coronavirus",
+    "abstract": "All your questions about the pandemic, answered. Sort of.",
+    "des_facet": [
+      "Coronavirus (2019-nCoV)",
+      "Deaths (Fatalities)"
+    ],
+    "org_facet": [],
+    "per_facet": [],
+    "geo_facet": [
+      "United States"
+    ],
+    "media": [
+      {
+        "type": "image",
+        "subtype": "photo",
+        "caption": "A customer reading a notice before entering Kilroy&rsquo;s Haircutters, on Friday, in Brunswick, Maine, where barbershops and some other businesses have been allowed to reopen under strict guidelines to help prevent the spread of the coronavirus.",
+        "copyright": "Robert F. Bukaty/Associated Press",
+        "approved_for_syndication": 1,
+        "media-metadata": [
+          {
+            "url": "https://static01.nyt.com/images/2020/05/03/opinion/03Eggers/03Eggers-thumbStandard.jpg",
+            "format": "Standard Thumbnail",
+            "height": 75,
+            "width": 75
+          },
+          {
+            "url": "https://static01.nyt.com/images/2020/05/03/opinion/03Eggers/merlin_172101456_bd12e2b8-c82a-43f9-9030-82c22d2cb6f7-mediumThreeByTwo210.jpg",
+            "format": "mediumThreeByTwo210",
+            "height": 140,
+            "width": 210
+          },
+          {
+            "url": "https://static01.nyt.com/images/2020/05/03/opinion/03Eggers/merlin_172101456_bd12e2b8-c82a-43f9-9030-82c22d2cb6f7-mediumThreeByTwo440.jpg",
+            "format": "mediumThreeByTwo440",
+            "height": 293,
+            "width": 440
+          }
+        ]
+      }
+    ],
+    "eta_id": 0
+  },
+  {
+    "uri": "nyt://article/ff198a2e-d18d-5ad0-810a-e49cfbe75a86",
+    "url": "https://www.nytimes.com/2020/05/06/opinion/ahmaud-arbery-killing.html",
+    "id": 100000007126081,
+    "asset_id": 100000007126081,
+    "source": "New York Times",
+    "published_date": "2020-05-06",
+    "updated": "2020-05-07 21:46:41",
+    "section": "Opinion",
+    "subsection": "",
+    "nytdsection": "opinion",
+    "adx_keywords": "Black People;Race and Ethnicity;Vigilantes;Murders, Attempted Murders and Homicides;Self-Defense;Arbery, Ahmaud (1994-2020);McMichael, Gregory (1955- );McMichael, Travis (1986- );Georgia",
+    "column": null,
+    "byline": "By Charles M. Blow",
+    "type": "Article",
+    "title": "The Killing of Ahmaud Arbery",
+    "abstract": "Another black man falsely assumed to be a criminal is dead.",
+    "des_facet": [
+      "Black People",
+      "Race and Ethnicity",
+      "Vigilantes",
+      "Murders, Attempted Murders and Homicides",
+      "Self-Defense"
+    ],
+    "org_facet": [],
+    "per_facet": [
+      "Arbery, Ahmaud (1994-2020)",
+      "McMichael, Gregory (1955- )",
+      "McMichael, Travis (1986- )"
+    ],
+    "geo_facet": [
+      "Georgia"
+    ],
+    "media": [
+      {
+        "type": "image",
+        "subtype": "photo",
+        "caption": "Ahmaud Arbery in an undated photo provided by his family.",
+        "copyright": "",
+        "approved_for_syndication": 0,
+        "media-metadata": [
+          {
+            "url": "https://static01.nyt.com/images/2020/05/06/opinion/06blow1/06blow1-thumbStandard.jpg",
+            "format": "Standard Thumbnail",
+            "height": 75,
+            "width": 75
+          },
+          {
+            "url": "https://static01.nyt.com/images/2020/05/06/opinion/06blow1/06blow1-mediumThreeByTwo210.jpg",
+            "format": "mediumThreeByTwo210",
+            "height": 140,
+            "width": 210
+          },
+          {
+            "url": "https://static01.nyt.com/images/2020/05/06/opinion/06blow1/06blow1-mediumThreeByTwo440.jpg",
+            "format": "mediumThreeByTwo440",
+            "height": 293,
+            "width": 440
+          }
+        ]
+      }
+    ],
+    "eta_id": 0
+  },
+  {
+    "uri": "nyt://article/097eaa57-7ebd-5ca1-8444-c49d142a9892",
+    "url": "https://www.nytimes.com/2020/05/03/world/asia/coronavirus-spread-where-why.html",
+    "id": 100000007109077,
+    "asset_id": 100000007109077,
+    "source": "New York Times",
+    "published_date": "2020-05-03",
+    "updated": "2020-05-05 12:41:41",
+    "section": "World",
+    "subsection": "Asia Pacific",
+    "nytdsection": "world",
+    "adx_keywords": "Coronavirus (2019-nCoV);Quarantines;Politics and Government;Age, Chronological;Temperature;Epidemics;Africa;Bangkok (Thailand);Brazil;Cambodia;China;Ecuador;Guyana;Haiti;Dominican Republic;India;Indonesia;Iran;Iraq;United States;South Korea;Thailand",
+    "column": null,
+    "byline": "By Hannah Beech, Alissa J. Rubin, Anatoly Kurmanaev and Ruth Maclean",
+    "type": "Article",
+    "title": "The Covid-19 Riddle: Why Does the Virus Wallop Some Places and Spare Others?",
+    "abstract": "Experts are trying to figure out why the coronavirus is so capricious. The answers could determine how to best protect ourselves and how long we have to.",
+    "des_facet": [
+      "Coronavirus (2019-nCoV)",
+      "Quarantines",
+      "Politics and Government",
+      "Age, Chronological",
+      "Temperature",
+      "Epidemics"
+    ],
+    "org_facet": [],
+    "per_facet": [],
+    "geo_facet": [
+      "Africa",
+      "Bangkok (Thailand)",
+      "Brazil",
+      "Cambodia",
+      "China",
+      "Ecuador",
+      "Guyana",
+      "Haiti",
+      "Dominican Republic",
+      "India",
+      "Indonesia",
+      "Iran",
+      "Iraq",
+      "United States",
+      "South Korea",
+      "Thailand"
+    ],
+    "media": [
+      {
+        "type": "image",
+        "subtype": "photo",
+        "caption": "Iraqi border agents at the Zurbatiya border crossing with Iran. On the other side lies the largest epicenter of the virus in the Middle East. On the Iraqi side, there are relatively few cases.",
+        "copyright": "Ivor Prickett for The New York Times",
+        "approved_for_syndication": 1,
+        "media-metadata": [
+          {
+            "url": "https://static01.nyt.com/images/2020/04/28/world/00virus-notspots/00virus-notspots-thumbStandard.jpg",
+            "format": "Standard Thumbnail",
+            "height": 75,
+            "width": 75
+          },
+          {
+            "url": "https://static01.nyt.com/images/2020/04/28/world/00virus-notspots/00virus-notspots-mediumThreeByTwo210-v2.jpg",
+            "format": "mediumThreeByTwo210",
+            "height": 140,
+            "width": 210
+          },
+          {
+            "url": "https://static01.nyt.com/images/2020/04/28/world/00virus-notspots/00virus-notspots-mediumThreeByTwo440-v2.jpg",
+            "format": "mediumThreeByTwo440",
+            "height": 293,
+            "width": 440
+          }
+        ]
+      }
+    ],
+    "eta_id": 0
+  },
+  {
+    "uri": "nyt://article/262e3b8e-ffd4-5b94-97f0-1731687bb37e",
+    "url": "https://www.nytimes.com/2020/05/06/science/llama-coronavirus-antibodies.html",
+    "id": 100000007124131,
+    "asset_id": 100000007124131,
+    "source": "New York Times",
+    "published_date": "2020-05-06",
+    "updated": "2020-05-07 00:09:58",
+    "section": "Science",
+    "subsection": "",
+    "nytdsection": "science",
+    "adx_keywords": "Llamas;Coronavirus (2019-nCoV);Antibodies;Research;SARS (Severe Acute Respiratory Syndrome);MERS (Middle East Respiratory Syndrome);your-feed-science;Vaccination and Immunization;McLellan, Jason (Researcher);Saelens, Xavier;Wrapp, Daniel (Researcher);Cell (Journal)",
+    "column": null,
+    "byline": "By Jillian Kramer",
+    "type": "Article",
+    "title": "Hoping Llamas Will Become Coronavirus Heroes",
+    "abstract": "Antibodies from Winter, a 4-year-old llama with great eyelashes, have neutralized coronavirus and other infections in lab experiments.",
+    "des_facet": [
+      "Llamas",
+      "Coronavirus (2019-nCoV)",
+      "Antibodies",
+      "Research",
+      "SARS (Severe Acute Respiratory Syndrome)",
+      "MERS (Middle East Respiratory Syndrome)",
+      "your-feed-science",
+      "Vaccination and Immunization"
+    ],
+    "org_facet": [
+      "Cell (Journal)"
+    ],
+    "per_facet": [
+      "McLellan, Jason (Researcher)",
+      "Saelens, Xavier",
+      "Wrapp, Daniel (Researcher)"
+    ],
+    "geo_facet": [],
+    "media": [
+      {
+        "type": "image",
+        "subtype": "photo",
+        "caption": "Winter, center, a llama on a farm run by Ghent University in Belgium.",
+        "copyright": "Tim Coppens",
+        "approved_for_syndication": 1,
+        "media-metadata": [
+          {
+            "url": "https://static01.nyt.com/images/2020/05/06/science/06VIRUS-LLAMAS1/06VIRUS-LLAMAS1-thumbStandard.jpg",
+            "format": "Standard Thumbnail",
+            "height": 75,
+            "width": 75
+          },
+          {
+            "url": "https://static01.nyt.com/images/2020/05/06/science/06VIRUS-LLAMAS1/06VIRUS-LLAMAS1-mediumThreeByTwo210.jpg",
+            "format": "mediumThreeByTwo210",
+            "height": 140,
+            "width": 210
+          },
+          {
+            "url": "https://static01.nyt.com/images/2020/05/06/science/06VIRUS-LLAMAS1/06VIRUS-LLAMAS1-mediumThreeByTwo440.jpg",
+            "format": "mediumThreeByTwo440",
+            "height": 293,
+            "width": 440
+          }
+        ]
+      }
+    ],
+    "eta_id": 0
+  },
+  {
+    "uri": "nyt://article/7ce617fc-1cbb-5a4b-920c-3c14b44685f3",
+    "url": "https://www.nytimes.com/2020/05/06/magazine/val-kilmer.html",
+    "id": 100000007118559,
+    "asset_id": 100000007118559,
+    "source": "New York Times",
+    "published_date": "2020-05-06",
+    "updated": "2020-05-10 15:59:29",
+    "section": "Magazine",
+    "subsection": "",
+    "nytdsection": "magazine",
+    "adx_keywords": "Movies;Actors and Actresses;Christian Science;Kilmer, Val",
+    "column": null,
+    "byline": "By Taffy Brodesser-Akner",
+    "type": "Article",
+    "title": "What Happened to Val Kilmer? He’s Just Starting to Figure It Out.",
+    "abstract": "Cancer has taken his voice, but the unlikeliest movie star in Hollywood history still has a lot he wants to say.",
+    "des_facet": [
+      "Movies",
+      "Actors and Actresses",
+      "Christian Science"
+    ],
+    "org_facet": [],
+    "per_facet": [
+      "Kilmer, Val"
+    ],
+    "geo_facet": [],
+    "media": [
+      {
+        "type": "image",
+        "subtype": "photo",
+        "caption": "",
+        "copyright": "Jeff Minton for The New York Times",
+        "approved_for_syndication": 1,
+        "media-metadata": [
+          {
+            "url": "https://static01.nyt.com/images/2020/05/07/magazine/10mag-kilmer/10mag-kilmer-thumbStandard.jpg",
+            "format": "Standard Thumbnail",
+            "height": 75,
+            "width": 75
+          },
+          {
+            "url": "https://static01.nyt.com/images/2020/05/07/magazine/10mag-kilmer/10mag-kilmer-mediumThreeByTwo210.jpg",
+            "format": "mediumThreeByTwo210",
+            "height": 140,
+            "width": 210
+          },
+          {
+            "url": "https://static01.nyt.com/images/2020/05/07/magazine/10mag-kilmer/10mag-kilmer-mediumThreeByTwo440.jpg",
+            "format": "mediumThreeByTwo440",
+            "height": 293,
+            "width": 440
+          }
+        ]
+      }
+    ],
+    "eta_id": 0
+  },
+  {
+    "uri": "nyt://article/77f2c0c1-0d43-5c7c-adc6-dfa17f4a3e56",
+    "url": "https://www.nytimes.com/2020/05/03/us/politics/trump-coronavirus.html",
+    "id": 100000007120077,
+    "asset_id": 100000007120077,
+    "source": "New York Times",
+    "published_date": "2020-05-03",
+    "updated": "2020-05-04 21:25:51",
+    "section": "U.S.",
+    "subsection": "Politics",
+    "nytdsection": "u.s.",
+    "adx_keywords": "Coronavirus (2019-nCoV);United States Politics and Government;Deaths (Fatalities);Trump, Donald J;Bush, George W;Fox News Channel;United States",
+    "column": null,
+    "byline": "By Peter Baker",
+    "type": "Article",
+    "title": "Trump Foresees Virus Death Toll as High as 100,000 in the United States",
+    "abstract": "But even as President Trump acknowledged that the coronavirus has been deadlier than he had previously predicted, he pressed to reopen the country.",
+    "des_facet": [
+      "Coronavirus (2019-nCoV)",
+      "United States Politics and Government",
+      "Deaths (Fatalities)"
+    ],
+    "org_facet": [
+      "Fox News Channel"
+    ],
+    "per_facet": [
+      "Trump, Donald J",
+      "Bush, George W"
+    ],
+    "geo_facet": [
+      "United States"
+    ],
+    "media": [
+      {
+        "type": "image",
+        "subtype": "photo",
+        "caption": "Despite revising his projected death toll upward, President Trump indicated that he favored lifting stay-at-home orders and other restrictions in a Fox News virtual town hall at the Lincoln Memorial on Sunday.",
+        "copyright": "Anna Moneymaker/The New York Times",
+        "approved_for_syndication": 1,
+        "media-metadata": [
+          {
+            "url": "https://static01.nyt.com/images/2020/05/04/us/politics/03dc-virus-trump-print/03dc-virus-trump-print-thumbStandard.jpg",
+            "format": "Standard Thumbnail",
+            "height": 75,
+            "width": 75
+          },
+          {
+            "url": "https://static01.nyt.com/images/2020/05/04/us/politics/03dc-virus-trump-print/03dc-virus-trump-print-mediumThreeByTwo210.jpg",
+            "format": "mediumThreeByTwo210",
+            "height": 140,
+            "width": 210
+          },
+          {
+            "url": "https://static01.nyt.com/images/2020/05/04/us/politics/03dc-virus-trump-print/03dc-virus-trump-print-mediumThreeByTwo440.jpg",
+            "format": "mediumThreeByTwo440",
+            "height": 293,
+            "width": 440
+          }
+        ]
+      }
+    ],
+    "eta_id": 0
+  },
+  {
+    "uri": "nyt://article/cc691d1f-c5a2-57d7-a2f5-9a5913f10cf0",
+    "url": "https://www.nytimes.com/2020/05/07/us/politics/michael-flynn-case-dropped.html",
+    "id": 100000007127728,
+    "asset_id": 100000007127728,
+    "source": "New York Times",
+    "published_date": "2020-05-07",
+    "updated": "2020-05-08 11:55:17",
+    "section": "U.S.",
+    "subsection": "Politics",
+    "nytdsection": "u.s.",
+    "adx_keywords": "Russian Interference in 2016 US Elections and Ties to Trump Associates;United States Politics and Government;United States International Relations;Flynn, Michael T;Barr, William P;Trump, Donald J;Justice Department;Federal Bureau of Investigation",
+    "column": null,
+    "byline": "By Adam Goldman and Katie Benner",
+    "type": "Article",
+    "title": "U.S. Drops Michael Flynn Case, in Move Backed by Trump",
+    "abstract": "The extraordinary move came after Mr. Flynn, the former national security adviser, fought the case in court for months, a reversal after pleading guilty twice and cooperating with investigators.",
+    "des_facet": [
+      "Russian Interference in 2016 US Elections and Ties to Trump Associates",
+      "United States Politics and Government",
+      "United States International Relations"
+    ],
+    "org_facet": [
+      "Justice Department",
+      "Federal Bureau of Investigation"
+    ],
+    "per_facet": [
+      "Flynn, Michael T",
+      "Barr, William P",
+      "Trump, Donald J"
+    ],
+    "geo_facet": [],
+    "media": [
+      {
+        "type": "image",
+        "subtype": "photo",
+        "caption": "Michael T. Flynn, President Trump’s first national security adviser, pleaded guilty in late 2017 to lying to investigators.",
+        "copyright": "Samuel Corum for The New York Times",
+        "approved_for_syndication": 1,
+        "media-metadata": [
+          {
+            "url": "https://static01.nyt.com/images/2020/05/07/us/politics/07dc-flynn-sub/07dc-flynn-sub-thumbStandard.jpg",
+            "format": "Standard Thumbnail",
+            "height": 75,
+            "width": 75
+          },
+          {
+            "url": "https://static01.nyt.com/images/2020/05/07/us/politics/07dc-flynn-sub/merlin_141043815_6e17b22c-bef5-44e7-b52c-1155f04eed76-mediumThreeByTwo210.jpg",
+            "format": "mediumThreeByTwo210",
+            "height": 140,
+            "width": 210
+          },
+          {
+            "url": "https://static01.nyt.com/images/2020/05/07/us/politics/07dc-flynn-sub/merlin_141043815_6e17b22c-bef5-44e7-b52c-1155f04eed76-mediumThreeByTwo440.jpg",
+            "format": "mediumThreeByTwo440",
+            "height": 293,
+            "width": 440
+          }
+        ]
+      }
+    ],
+    "eta_id": 0
+  },
+  {
+    "uri": "nyt://article/3cf3139f-cd6c-53cb-ba61-a7d16db00231",
+    "url": "https://www.nytimes.com/2020/05/04/books/stephenie-meyer-midnight-sun-twilight.html",
+    "id": 100000007120738,
+    "asset_id": 100000007120738,
+    "source": "New York Times",
+    "published_date": "2020-05-04",
+    "updated": "2020-05-06 14:52:07",
+    "section": "Books",
+    "subsection": "",
+    "nytdsection": "books",
+    "adx_keywords": "Books and Literature;Meyer, Stephenie",
+    "column": null,
+    "byline": "By Johnny Diaz",
+    "type": "Article",
+    "title": "Stephenie Meyer to Publish a New ‘Twilight’ Book, ‘Midnight Sun’",
+    "abstract": "The author of the popular “Twilight” vampire series announced that the new book, told from the vampire Edward Cullen’s perspective, will go on sale Aug. 4.",
+    "des_facet": [
+      "Books and Literature"
+    ],
+    "org_facet": [],
+    "per_facet": [
+      "Meyer, Stephenie"
+    ],
+    "geo_facet": [],
+    "media": [
+      {
+        "type": "image",
+        "subtype": "photo",
+        "caption": "Stephenie Meyer, the author of the “Twilight” series.",
+        "copyright": "Mario Anzuoni/Reuters",
+        "approved_for_syndication": 1,
+        "media-metadata": [
+          {
+            "url": "https://static01.nyt.com/images/2020/05/04/multimedia/04xp-stephenie-meyer/04xp-stephenie-meyer-thumbStandard.jpg",
+            "format": "Standard Thumbnail",
+            "height": 75,
+            "width": 75
+          },
+          {
+            "url": "https://static01.nyt.com/images/2020/05/04/multimedia/04xp-stephenie-meyer/04xp-stephenie-meyer-mediumThreeByTwo210.jpg",
+            "format": "mediumThreeByTwo210",
+            "height": 140,
+            "width": 210
+          },
+          {
+            "url": "https://static01.nyt.com/images/2020/05/04/multimedia/04xp-stephenie-meyer/04xp-stephenie-meyer-mediumThreeByTwo440.jpg",
+            "format": "mediumThreeByTwo440",
+            "height": 293,
+            "width": 440
+          }
+        ]
+      }
+    ],
+    "eta_id": 0
+  },
+  {
+    "uri": "nyt://article/bf484e70-9e6e-5016-8f78-e496ca90f52e",
+    "url": "https://www.nytimes.com/2020/05/07/us/ahmaud-arbery-shooting-arrest.html",
+    "id": 100000007128503,
+    "asset_id": 100000007128503,
+    "source": "New York Times",
+    "published_date": "2020-05-07",
+    "updated": "2020-05-08 21:04:55",
+    "section": "U.S.",
+    "subsection": "",
+    "nytdsection": "u.s.",
+    "adx_keywords": "Murders, Attempted Murders and Homicides;Black People;Race and Ethnicity;Arbery, Ahmaud (1994-2020);McMichael, Travis (1986- );McMichael, Gregory (1955- );Georgia;Brunswick (Ga)",
+    "column": null,
+    "byline": "By Richard Fausset",
+    "type": "Article",
+    "title": "2 Suspects Charged With Murder in Ahmaud Arbery Shooting",
+    "abstract": "Gregory McMichael and Travis McMichael were arrested in connection with the killing of Mr. Arbery, which had led to protests in Georgia.",
+    "des_facet": [
+      "Murders, Attempted Murders and Homicides",
+      "Black People",
+      "Race and Ethnicity"
+    ],
+    "org_facet": [],
+    "per_facet": [
+      "Arbery, Ahmaud (1994-2020)",
+      "McMichael, Travis (1986- )",
+      "McMichael, Gregory (1955- )"
+    ],
+    "geo_facet": [
+      "Georgia",
+      "Brunswick (Ga)"
+    ],
+    "media": [
+      {
+        "type": "image",
+        "subtype": "photo",
+        "caption": "",
+        "copyright": "",
+        "approved_for_syndication": 0,
+        "media-metadata": [
+          {
+            "url": "https://static01.nyt.com/images/2020/04/27/us/07arrest-georgia-shooting-promo/00georgia-shooting3-thumbStandard.jpg",
+            "format": "Standard Thumbnail",
+            "height": 75,
+            "width": 75
+          },
+          {
+            "url": "https://static01.nyt.com/images/2020/04/27/us/07arrest-georgia-shooting-promo/00georgia-shooting3-mediumThreeByTwo210.jpg",
+            "format": "mediumThreeByTwo210",
+            "height": 140,
+            "width": 210
+          },
+          {
+            "url": "https://static01.nyt.com/images/2020/04/27/us/07arrest-georgia-shooting-promo/00georgia-shooting3-mediumThreeByTwo440.jpg",
+            "format": "mediumThreeByTwo440",
+            "height": 293,
+            "width": 440
+          }
+        ]
+      }
+    ],
+    "eta_id": 0
+  },
+  {
+    "uri": "nyt://interactive/2c00e8ae-373f-5ad7-bcf0-bb43c09ef9d9",
+    "url": "https://www.nytimes.com/interactive/2020/climate/trump-environment-rollbacks.html",
+    "id": 100000006532657,
+    "asset_id": 100000006532657,
+    "source": "New York Times",
+    "published_date": "2019-06-02",
+    "updated": "2020-05-10 02:05:17",
+    "section": "Climate",
+    "subsection": "",
+    "nytdsection": "climate",
+    "adx_keywords": "Global Warming;Greenhouse Gas Emissions;Oil (Petroleum) and Gasoline;Air Pollution;Clean Water Act;Executive Orders and Memorandums;Federal Lands;Fuel Efficiency;Land Use Policies;United States Politics and Government;Trump, Donald J",
+    "column": null,
+    "byline": "By Nadja Popovich, Livia Albeck-Ripka and Kendra Pierre-Louis",
+    "type": "Interactive",
+    "title": "The Trump Administration Is Reversing Nearly 100 Environmental Rules. Here’s the Full List.",
+    "abstract": "A New York Times analysis found more than 60 environmental policies officially rolled back under Mr. Trump and another 34 rollbacks still in progress.",
+    "des_facet": [
+      "Global Warming",
+      "Greenhouse Gas Emissions",
+      "Oil (Petroleum) and Gasoline",
+      "Air Pollution",
+      "Clean Water Act",
+      "Executive Orders and Memorandums",
+      "Federal Lands",
+      "Fuel Efficiency",
+      "Land Use Policies",
+      "United States Politics and Government"
+    ],
+    "org_facet": [],
+    "per_facet": [
+      "Trump, Donald J"
+    ],
+    "geo_facet": [],
+    "media": [
+      {
+        "type": "image",
+        "subtype": "",
+        "caption": "",
+        "copyright": "",
+        "approved_for_syndication": 0,
+        "media-metadata": [
+          {
+            "url": "https://static01.nyt.com/images/2019/12/23/multimedia/cli-rollbacks-vehicle-emissions/cli-rollbacks-vehicle-emissions-thumbStandard-v5.jpg",
+            "format": "Standard Thumbnail",
+            "height": 75,
+            "width": 75
+          },
+          {
+            "url": "https://static01.nyt.com/images/2019/12/23/multimedia/cli-rollbacks-vehicle-emissions/cli-rollbacks-vehicle-emissions-mediumThreeByTwo210-v3.png",
+            "format": "mediumThreeByTwo210",
+            "height": 140,
+            "width": 210
+          },
+          {
+            "url": "https://static01.nyt.com/images/2019/12/23/multimedia/cli-rollbacks-vehicle-emissions/cli-rollbacks-vehicle-emissions-mediumThreeByTwo440-v3.png",
+            "format": "mediumThreeByTwo440",
+            "height": 293,
+            "width": 440
+          }
+        ]
+      }
+    ],
+    "eta_id": 0
+  },
+  {
+    "uri": "nyt://article/cc4528b7-3fc0-5309-8dcc-60275db587a5",
+    "url": "https://www.nytimes.com/2020/05/02/us/anti-vaxxers-coronavirus-protests.html",
+    "id": 100000007119398,
+    "asset_id": 100000007119398,
+    "source": "New York Times",
+    "published_date": "2020-05-02",
+    "updated": "2020-05-04 11:15:13",
+    "section": "U.S.",
+    "subsection": "",
+    "nytdsection": "u.s.",
+    "adx_keywords": "Coronavirus (2019-nCoV);Vaccination and Immunization;Politics and Government;Demonstrations, Protests and Riots;State Legislatures;California",
+    "column": null,
+    "byline": "By Nicholas Bogel-Burroughs",
+    "type": "Article",
+    "title": "Antivaccination Activists Are Growing Force at Virus Protests",
+    "abstract": "Public health experts fear that their messaging could further harm the country’s response to the pandemic.",
+    "des_facet": [
+      "Coronavirus (2019-nCoV)",
+      "Vaccination and Immunization",
+      "Politics and Government",
+      "Demonstrations, Protests and Riots",
+      "State Legislatures"
+    ],
+    "org_facet": [],
+    "per_facet": [],
+    "geo_facet": [
+      "California"
+    ],
+    "media": [
+      {
+        "type": "image",
+        "subtype": "photo",
+        "caption": "Heidi Muñoz Gleisner, left center, and Tara Thornton, right center, were removed from a demonstration in Sacramento on Friday.",
+        "copyright": "Daniel Kim/The Sacramento Bee, via Associated Press",
+        "approved_for_syndication": 1,
+        "media-metadata": [
+          {
+            "url": "https://static01.nyt.com/images/2020/05/03/us/02virus-antivaxxer-print/02virus-antivaxxer-1-thumbStandard.jpg",
+            "format": "Standard Thumbnail",
+            "height": 75,
+            "width": 75
+          },
+          {
+            "url": "https://static01.nyt.com/images/2020/05/03/us/02virus-antivaxxer-print/02virus-antivaxxer-1-mediumThreeByTwo210.jpg",
+            "format": "mediumThreeByTwo210",
+            "height": 140,
+            "width": 210
+          },
+          {
+            "url": "https://static01.nyt.com/images/2020/05/03/us/02virus-antivaxxer-print/02virus-antivaxxer-1-mediumThreeByTwo440.jpg",
+            "format": "mediumThreeByTwo440",
+            "height": 293,
+            "width": 440
+          }
+        ]
+      }
+    ],
+    "eta_id": 0
+  },
+  {
+    "uri": "nyt://article/f3ea6f0a-8e14-57fc-b247-7f68e9e68b2e",
+    "url": "https://www.nytimes.com/2020/05/08/world/americas/mexico-coronavirus-count.html",
+    "id": 100000007126956,
+    "asset_id": 100000007126956,
+    "source": "New York Times",
+    "published_date": "2020-05-08",
+    "updated": "2020-05-09 13:23:20",
+    "section": "World",
+    "subsection": "Americas",
+    "nytdsection": "world",
+    "adx_keywords": "Coronavirus (2019-nCoV);Deaths (Fatalities);Ventilators (Medical);Lopez Obrador, Andres Manuel;Mexico;Mexico City (Mexico)",
+    "column": null,
+    "byline": "By Azam Ahmed and Daniel Berehulak",
+    "type": "Article",
+    "title": "Hidden Toll: Mexico Ignores Wave of Coronavirus Deaths in Capital",
+    "abstract": "More than three times as many people may have died from Covid-19 in Mexico City than federal statistics show, according to a Times analysis.",
+    "des_facet": [
+      "Coronavirus (2019-nCoV)",
+      "Deaths (Fatalities)",
+      "Ventilators (Medical)"
+    ],
+    "org_facet": [],
+    "per_facet": [
+      "Lopez Obrador, Andres Manuel"
+    ],
+    "geo_facet": [
+      "Mexico",
+      "Mexico City (Mexico)"
+    ],
+    "media": [
+      {
+        "type": "image",
+        "subtype": "photo",
+        "caption": "Workers at a crematorium at Xilotepec Cemetery bringing the body of a Covid-19 victim to be cremated on Friday in Mexico City.",
+        "copyright": "Daniel Berehulak for The New York Times",
+        "approved_for_syndication": 1,
+        "media-metadata": [
+          {
+            "url": "https://static01.nyt.com/images/2020/05/08/world/08mexico-virus-promo2/merlin_172318887_a2f538e6-e2ad-4286-b75f-b305a2df38bf-thumbStandard.jpg",
+            "format": "Standard Thumbnail",
+            "height": 75,
+            "width": 75
+          },
+          {
+            "url": "https://static01.nyt.com/images/2020/05/08/world/08mexico-virus-promo2/merlin_172318887_a2f538e6-e2ad-4286-b75f-b305a2df38bf-mediumThreeByTwo210.jpg",
+            "format": "mediumThreeByTwo210",
+            "height": 140,
+            "width": 210
+          },
+          {
+            "url": "https://static01.nyt.com/images/2020/05/08/world/08mexico-virus-promo2/merlin_172318887_a2f538e6-e2ad-4286-b75f-b305a2df38bf-mediumThreeByTwo440.jpg",
+            "format": "mediumThreeByTwo440",
+            "height": 293,
+            "width": 440
+          }
+        ]
+      }
+    ],
+    "eta_id": 0
+  },
+  {
+    "uri": "nyt://article/b5685282-240f-5f0f-b41e-66a825a2816d",
+    "url": "https://www.nytimes.com/es/2020/05/08/espanol/america-latina/mexico-coronavirus.html",
+    "id": 100000007128300,
+    "asset_id": 100000007128300,
+    "source": "New York Times",
+    "published_date": "2020-05-08",
+    "updated": "2020-05-08 13:52:24",
+    "section": "en Español",
+    "subsection": "América Latina",
+    "nytdsection": "en español",
+    "adx_keywords": "Coronavirus (2019-nCoV);Deaths (Fatalities);Ventilators (Medical);Lopez Obrador, Andres Manuel;Mexico",
+    "column": null,
+    "byline": "By Azam Ahmed",
+    "type": "Article",
+    "title": "Cifras ocultas: México desatiende ola de muertes en la capital",
+    "abstract": "Según un análisis hecho por el Times, la cifra de personas que pudieron haber muerto de la COVID-19 en Ciudad de México es más de tres veces la que muestran las cifras federales.",
+    "des_facet": [
+      "Coronavirus (2019-nCoV)",
+      "Deaths (Fatalities)",
+      "Ventilators (Medical)"
+    ],
+    "org_facet": [],
+    "per_facet": [
+      "Lopez Obrador, Andres Manuel"
+    ],
+    "geo_facet": [
+      "Mexico"
+    ],
+    "media": [
+      {
+        "type": "image",
+        "subtype": "photo",
+        "caption": "<p>El jueves se esterilizaba la capilla del panteón Xilotepec en Xochimilco, en Ciudad de México</p>",
+        "copyright": "Daniel Berehulak para The New York Times",
+        "approved_for_syndication": 1,
+        "media-metadata": [
+          {
+            "url": "https://static01.nyt.com/images/2020/05/08/world/08virus-mexico9-es/merlin_172297530_07ccd1e9-e6da-4475-a1d9-2b264a17053b-thumbStandard.jpg",
+            "format": "Standard Thumbnail",
+            "height": 75,
+            "width": 75
+          },
+          {
+            "url": "https://static01.nyt.com/images/2020/05/08/world/08virus-mexico9-es/merlin_172297530_07ccd1e9-e6da-4475-a1d9-2b264a17053b-mediumThreeByTwo210.jpg",
+            "format": "mediumThreeByTwo210",
+            "height": 140,
+            "width": 210
+          },
+          {
+            "url": "https://static01.nyt.com/images/2020/05/08/world/08virus-mexico9-es/merlin_172297530_07ccd1e9-e6da-4475-a1d9-2b264a17053b-mediumThreeByTwo440.jpg",
+            "format": "mediumThreeByTwo440",
+            "height": 293,
+            "width": 440
+          }
+        ]
+      }
+    ],
+    "eta_id": 0
+  },
+  {
+    "uri": "nyt://article/827a6d1d-c683-549e-b053-51cc642e82e3",
+    "url": "https://www.nytimes.com/2020/05/05/us/ahmaud-arbery-killing-georgia.html",
+    "id": 100000007123275,
+    "asset_id": 100000007123275,
+    "source": "New York Times",
+    "published_date": "2020-05-05",
+    "updated": "2020-05-08 10:11:06",
+    "section": "U.S.",
+    "subsection": "",
+    "nytdsection": "u.s.",
+    "adx_keywords": "Black People;Civil Rights and Liberties;Arbery, Ahmaud (1994-2020);McMichael, Gregory (1955- );McMichael, Travis (1986- );Georgia;Brunswick (Ga)",
+    "column": null,
+    "byline": "By Richard Fausset",
+    "type": "Article",
+    "title": "Ahmaud Arbery’s Killing Will Go to Grand Jury as Graphic Video Emerges",
+    "abstract": "Mr. Arbery, 25, was killed after two men pursued him in a South Georgia neighborhood, a confrontation that was caught on video. A prosecutor said charges should be considered in the case.",
+    "des_facet": [
+      "Black People",
+      "Civil Rights and Liberties"
+    ],
+    "org_facet": [],
+    "per_facet": [
+      "Arbery, Ahmaud (1994-2020)",
+      "McMichael, Gregory (1955- )",
+      "McMichael, Travis (1986- )"
+    ],
+    "geo_facet": [
+      "Georgia",
+      "Brunswick (Ga)"
+    ],
+    "media": [
+      {
+        "type": "image",
+        "subtype": "photo",
+        "caption": "",
+        "copyright": ".",
+        "approved_for_syndication": 0,
+        "media-metadata": [
+          {
+            "url": "https://static01.nyt.com/images/2020/05/05/us/05georgia-promo/05georgia-promo-thumbStandard.jpg",
+            "format": "Standard Thumbnail",
+            "height": 75,
+            "width": 75
+          },
+          {
+            "url": "https://static01.nyt.com/images/2020/05/05/us/05georgia-promo/05georgia-promo-mediumThreeByTwo210.jpg",
+            "format": "mediumThreeByTwo210",
+            "height": 140,
+            "width": 210
+          },
+          {
+            "url": "https://static01.nyt.com/images/2020/05/05/us/05georgia-promo/05georgia-promo-mediumThreeByTwo440.jpg",
+            "format": "mediumThreeByTwo440",
+            "height": 293,
+            "width": 440
+          }
+        ]
+      }
+    ],
+    "eta_id": 0
+  },
+  {
+    "uri": "nyt://article/3b2bb8cb-7f26-5ca1-8fce-87ab903892e1",
+    "url": "https://www.nytimes.com/2020/05/07/us/new-york-city-coronavirus-outbreak.html",
+    "id": 100000007123453,
+    "asset_id": 100000007123453,
+    "source": "New York Times",
+    "published_date": "2020-05-07",
+    "updated": "2020-05-08 00:01:07",
+    "section": "U.S.",
+    "subsection": "",
+    "nytdsection": "u.s.",
+    "adx_keywords": "Coronavirus (2019-nCoV);States (US);Epidemics;Research;New York City;Seattle (Wash)",
+    "column": null,
+    "byline": "By Benedict Carey and James Glanz",
+    "type": "Article",
+    "title": "Travel From New York City Seeded Wave of U.S. Outbreaks",
+    "abstract": "The coronavirus outbreak in New York City became the primary source of infections around the United States, researchers have found.",
+    "des_facet": [
+      "Coronavirus (2019-nCoV)",
+      "States (US)",
+      "Epidemics",
+      "Research"
+    ],
+    "org_facet": [],
+    "per_facet": [],
+    "geo_facet": [
+      "New York City",
+      "Seattle (Wash)"
+    ],
+    "media": [
+      {
+        "type": "image",
+        "subtype": "photo",
+        "caption": "",
+        "copyright": "",
+        "approved_for_syndication": 1,
+        "media-metadata": [
+          {
+            "url": "https://static01.nyt.com/images/2020/05/06/us/2020-05-06-nyc-virus-hub-chart-promo-1588808590076/2020-05-06-nyc-virus-hub-chart-promo-1588808590076-thumbStandard-v2.png",
+            "format": "Standard Thumbnail",
+            "height": 75,
+            "width": 75
+          },
+          {
+            "url": "https://static01.nyt.com/images/2020/05/06/us/2020-05-06-nyc-virus-hub-chart-promo-1588808590076/2020-05-06-nyc-virus-hub-chart-promo-1588808590076-mediumThreeByTwo210-v2.png",
+            "format": "mediumThreeByTwo210",
+            "height": 140,
+            "width": 210
+          },
+          {
+            "url": "https://static01.nyt.com/images/2020/05/06/us/2020-05-06-nyc-virus-hub-chart-promo-1588808590076/2020-05-06-nyc-virus-hub-chart-promo-1588808590076-mediumThreeByTwo440-v2.png",
+            "format": "mediumThreeByTwo440",
+            "height": 293,
+            "width": 440
+          }
+        ]
+      }
+    ],
+    "eta_id": 0
+  },
+  {
+    "uri": "nyt://article/dfbf98ff-d6d4-520b-a678-e17e0fab9852",
+    "url": "https://www.nytimes.com/2020/04/26/us/ahmed-arbery-shooting-georgia.html",
+    "id": 100000007098905,
+    "asset_id": 100000007098905,
+    "source": "New York Times",
+    "published_date": "2020-04-26",
+    "updated": "2020-05-08 10:08:42",
+    "section": "U.S.",
+    "subsection": "",
+    "nytdsection": "u.s.",
+    "adx_keywords": "Racial Profiling;Race and Ethnicity;Murders, Attempted Murders and Homicides;Black People;Self-Defense;McMichael, Gregory (1955- );McMichael, Travis (1986- );Arbery, Ahmaud (1994-2020);Brunswick (Ga);Georgia",
+    "column": null,
+    "byline": "By Richard Fausset",
+    "type": "Article",
+    "title": "Two Weapons, a Chase, a Killing and No Charges",
+    "abstract": "A 25-year-old man running through a Georgia neighborhood ended up dead. A prosecutor argued that the pursuers should not be arrested.",
+    "des_facet": [
+      "Racial Profiling",
+      "Race and Ethnicity",
+      "Murders, Attempted Murders and Homicides",
+      "Black People",
+      "Self-Defense"
+    ],
+    "org_facet": [],
+    "per_facet": [
+      "McMichael, Gregory (1955- )",
+      "McMichael, Travis (1986- )",
+      "Arbery, Ahmaud (1994-2020)"
+    ],
+    "geo_facet": [
+      "Brunswick (Ga)",
+      "Georgia"
+    ],
+    "media": [
+      {
+        "type": "image",
+        "subtype": "photo",
+        "caption": "A cross placed by the mother of Ahmaud Arbery at the site where he was killed in Glynn County, Ga., in February.",
+        "copyright": "Richard Fausset/The New York Times",
+        "approved_for_syndication": 1,
+        "media-metadata": [
+          {
+            "url": "https://static01.nyt.com/images/2020/04/27/us/00georgia-shooting2/00georgia-shooting2-thumbStandard.jpg",
+            "format": "Standard Thumbnail",
+            "height": 75,
+            "width": 75
+          },
+          {
+            "url": "https://static01.nyt.com/images/2020/04/27/us/00georgia-shooting2/00georgia-shooting2-mediumThreeByTwo210-v2.jpg",
+            "format": "mediumThreeByTwo210",
+            "height": 140,
+            "width": 210
+          },
+          {
+            "url": "https://static01.nyt.com/images/2020/04/27/us/00georgia-shooting2/00georgia-shooting2-mediumThreeByTwo440-v2.jpg",
+            "format": "mediumThreeByTwo440",
+            "height": 293,
+            "width": 440
+          }
+        ]
+      }
+    ],
+    "eta_id": 0
+  }
+]
